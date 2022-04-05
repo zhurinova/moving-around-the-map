@@ -38,6 +38,5 @@ while (true)
         }
         Console.SetCursorPosition(x + shiftX, y + shiftY);
         Console.Write("@");
-        Console.SetCursorPosition(15, 15);
-    }
+       
 }
